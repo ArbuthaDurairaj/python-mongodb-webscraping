@@ -65,14 +65,22 @@ The application performs:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Run Quote Scraper
 
+```bash
 python quote_scraper/index.py
+```
 
 ### Run Weather Scraper
 
+```bash
 python weather_scraper/weather.py
+```
+
+---
 
 ## Author
+
 Arbutha Durairaj
